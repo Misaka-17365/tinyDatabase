@@ -1,0 +1,9 @@
+!*.h
+!*.cpp
+!*.md
+
+!/src
+
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
